@@ -1,0 +1,101 @@
+Variabila a ia valoarea 1
+Expresia este adevarata
+Variabila a ia valoarea 2
+Expresia este adevarata
+Variabila a ia valoarea 3
+Expresia este adevarata
+Variabila a ia valoarea 4
+Expresia este adevarata
+Variabila a ia valoarea 5
+Expresia este adevarata
+Variabila a ia valoarea 6
+Expresia este adevarata
+Variabila a ia valoarea 7
+Expresia este adevarata
+Variabila a ia valoarea 8
+Expresia este adevarata
+Variabila a ia valoarea 9
+Expresia este adevarata
+Variabila a ia valoarea 10
+Expresia este adevarata
+Variabila a ia valoarea 11
+Expresia este adevarata
+Variabila a ia valoarea 12
+Expresia este adevarata
+Variabila a ia valoarea 13
+Expresia este adevarata
+Variabila a ia valoarea 14
+Expresia este adevarata
+Variabila a ia valoarea 15
+Expresia este adevarata
+Variabila a ia valoarea 16
+Expresia este adevarata
+Variabila a ia valoarea 17
+Expresia este adevarata
+Variabila a ia valoarea 18
+Expresia este adevarata
+Variabila a ia valoarea 19
+Expresia este adevarata
+Variabila a ia valoarea 20
+Expresia este adevarata
+Variabila a ia valoarea 21
+Expresia este adevarata
+Variabila a ia valoarea 22
+Expresia este adevarata
+Variabila a ia valoarea 23
+Expresia este adevarata
+Variabila a ia valoarea 24
+Expresia este adevarata
+Variabila a ia valoarea 25
+Expresia este adevarata
+Variabila a ia valoarea 26
+Expresia este adevarata
+Variabila a ia valoarea 27
+Expresia este adevarata
+Variabila a ia valoarea 28
+Expresia este adevarata
+Variabila a ia valoarea 29
+Expresia este adevarata
+Variabila a ia valoarea 30
+Expresia este adevarata
+Variabila a ia valoarea 31
+Expresia este adevarata
+Variabila a ia valoarea 32
+Expresia este adevarata
+Variabila a ia valoarea 33
+Expresia este adevarata
+Variabila a ia valoarea 34
+Expresia este adevarata
+Variabila a ia valoarea 35
+Expresia este adevarata
+Variabila a ia valoarea 36
+Expresia este adevarata
+Variabila a ia valoarea 37
+Expresia este adevarata
+Variabila a ia valoarea 38
+Expresia este adevarata
+Variabila a ia valoarea 39
+Expresia este adevarata
+Variabila a ia valoarea 40
+Expresia este adevarata
+Variabila a ia valoarea 41
+Expresia este adevarata
+Variabila a ia valoarea 42
+Expresia este adevarata
+Variabila a ia valoarea 43
+Expresia este adevarata
+Variabila a ia valoarea 44
+Expresia este adevarata
+Variabila a ia valoarea 45
+Expresia este adevarata
+Variabila a ia valoarea 46
+Expresia este adevarata
+Variabila a ia valoarea 47
+Expresia este adevarata
+Variabila a ia valoarea 48
+Expresia este adevarata
+Variabila a ia valoarea 49
+Expresia este adevarata
+Variabila a ia valoarea 50
+Expresia este falsa
+a = 50

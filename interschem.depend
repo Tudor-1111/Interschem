@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736884077 source:e:\grafica\interschem\main.cpp
+	<graphics.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stack>
+	<cstring>
+	<vector>
+
